@@ -1,0 +1,30 @@
+Sequencial: 5000,5000
+Sequencial ordenada: 5000,5000
+Binaria: 5000,12
+Sequencial: 10000,10000
+Sequencial ordenada: 10000,10000
+Binaria: 10000,13
+Sequencial: 15000,15000
+Sequencial ordenada: 15000,15000
+Binaria: 15000,13
+Sequencial: 20000,20000
+Sequencial ordenada: 20000,20000
+Binaria: 20000,14
+Sequencial: 25000,25000
+Sequencial ordenada: 25000,25000
+Binaria: 25000,14
+Sequencial: 30000,30000
+Sequencial ordenada: 30000,30000
+Binaria: 30000,14
+Sequencial: 35000,35000
+Sequencial ordenada: 35000,35000
+Binaria: 35000,15
+Sequencial: 40000,40000
+Sequencial ordenada: 40000,40000
+Binaria: 40000,15
+Sequencial: 45000,45000
+Sequencial ordenada: 45000,45000
+Binaria: 45000,15
+Sequencial: 50000,50000
+Sequencial ordenada: 50000,50000
+Binaria: 50000,15
