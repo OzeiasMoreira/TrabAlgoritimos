@@ -37,7 +37,7 @@ int main()
 
         //Busca sequencial no pior caso
         iteracoes = tam;
-        fprintf(fpiorcaso,"Sequencial: %d,%d\n",tam , iteracoes);
+        fprintf(fpiorcaso,"Sequencia: %d,%d\n",tam , iteracoes);
 
         //Busca sequencial ordenada no pior caso
         iteracoes = tam;
